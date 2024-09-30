@@ -1,0 +1,45 @@
+| Code     | Color Name      | Sample Text                                 |
+|----------|-----------------|---------------------------------------------|
+| \033[30m | Black           | \033[30mBlack text\033[0m                   |
+| \033[31m | Red             | \033[31mRed text\033[0m                     |
+| \033[32m | Green           | \033[32mGreen text\033[0m                   |
+| \033[33m | Yellow          | \033[33mYellow text\033[0m                  |
+| \033[34m | Blue            | \033[34mBlue text\033[0m                    |
+| \033[35m | Magenta         | \033[35mMagenta text\033[0m                 |
+| \033[36m | Cyan            | \033[36mCyan text\033[0m                    |
+| \033[37m | White           | \033[37mWhite text\033[0m                   |
+| \033[90m | Bright Black    | \033[90mBright Black text\033[0m            |
+| \033[91m | Bright Red      | \033[91mBright Red text\033[0m              |
+| \033[92m | Bright Green    | \033[92mBright Green text\033[0m            |
+| \033[93m | Bright Yellow   | \033[93mBright Yellow text\033[0m           |
+| \033[94m | Bright Blue     | \033[94mBright Blue text\033[0m             |
+| \033[95m | Bright Magenta  | \033[95mBright Magenta text\033[0m          |
+| \033[96m | Bright Cyan     | \033[96mBright Cyan text\033[0m             |
+| \033[97m | Bright White    | \033[97mBright White text\033[0m            |
+| \033[38m | orange
+
+| Code     | Color Name      | Sample Background                           |
+|----------|-----------------|---------------------------------------------|
+| \033[40m | Black           | \033[40mBlack background\033[0m             |
+| \033[41m | Red             | \033[41mRed background\033[0m               |
+| \033[42m | Green           | \033[42mGreen background\033[0m             |
+| \033[43m | Yellow          | \033[43mYellow background\033[0m            |
+| \033[44m | Blue            | \033[44mBlue background\033[0m              |
+| \033[45m | Magenta         | \033[45mMagenta background\033[0m           |
+| \033[46m | Cyan            | \033[46mCyan background\033[0m              |
+| \033[47m | White           | \033[47mWhite background\033[0m             |
+| \033[100m| Bright Black    | \033[100mBright Black background\033[0m     |
+| \033[101m| Bright Red      | \033[101mBright Red background\033[0m       |
+| \033[102m| Bright Green    | \033[102mBright Green background\033[0m     |
+| \033[103m| Bright Yellow   | \033[103mBright Yellow background\033[0m    |
+| \033[104m| Bright Blue     | \033[104mBright Blue background\033[0m      |
+| \033[105m| Bright Magenta  | \033[105mBright Magenta background\033[0m   |
+| \033[106m| Bright Cyan     | \033[106mBright Cyan background\033[0m      |
+| \033[107m| Bright White    | \033[107mBright White background\033[0m     |
+
+| Style     | Code | Escape Sequence |
+|-----------|------|------------------|
+| Reset     | 0    | \033[0m          |
+| Bold      | 1    | \033[1m          |
+| Underline | 4    | \033[4m          |
+| Negative  | 7    | \033[7m          |
