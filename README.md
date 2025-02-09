@@ -1,4 +1,3 @@
-/*
 | Escape Code              | Description                |
 |--------------------------|----------------------------|
 | \033[30m                | Black                      |
@@ -39,4 +38,3 @@
 | \033[1m                 | Bold                       |
 | \033[4m                 | Underline                  |
 | \033[7m                 | Negative (Inverted Colors) |
-*/
